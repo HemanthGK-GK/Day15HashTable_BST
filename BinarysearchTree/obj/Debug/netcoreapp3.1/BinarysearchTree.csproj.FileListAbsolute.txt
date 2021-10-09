@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\BinarysearchTree\bin\Debug\netcoreapp3.1\BinarysearchTree.exe
+C:\Users\91807\Desktop\Batch67\BinarysearchTree\bin\Debug\netcoreapp3.1\BinarysearchTree.deps.json
+C:\Users\91807\Desktop\Batch67\BinarysearchTree\bin\Debug\netcoreapp3.1\BinarysearchTree.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\BinarysearchTree\bin\Debug\netcoreapp3.1\BinarysearchTree.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\BinarysearchTree\bin\Debug\netcoreapp3.1\BinarysearchTree.dll
+C:\Users\91807\Desktop\Batch67\BinarysearchTree\bin\Debug\netcoreapp3.1\BinarysearchTree.pdb
+C:\Users\91807\Desktop\Batch67\BinarysearchTree\obj\Debug\netcoreapp3.1\BinarysearchTree.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\BinarysearchTree\obj\Debug\netcoreapp3.1\BinarysearchTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\BinarysearchTree\obj\Debug\netcoreapp3.1\BinarysearchTree.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\BinarysearchTree\obj\Debug\netcoreapp3.1\BinarysearchTree.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\BinarysearchTree\obj\Debug\netcoreapp3.1\BinarysearchTree.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\BinarysearchTree\obj\Debug\netcoreapp3.1\BinarysearchTree.dll
+C:\Users\91807\Desktop\Batch67\BinarysearchTree\obj\Debug\netcoreapp3.1\BinarysearchTree.pdb
+C:\Users\91807\Desktop\Batch67\BinarysearchTree\obj\Debug\netcoreapp3.1\BinarysearchTree.genruntimeconfig.cache
