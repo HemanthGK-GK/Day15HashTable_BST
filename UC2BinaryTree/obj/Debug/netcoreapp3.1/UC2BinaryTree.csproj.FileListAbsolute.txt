@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\UC2BinaryTree\obj\Debug\netcoreapp3.1\UC2BinaryTree.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\UC2BinaryTree\obj\Debug\netcoreapp3.1\UC2BinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\UC2BinaryTree\obj\Debug\netcoreapp3.1\UC2BinaryTree.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\UC2BinaryTree\obj\Debug\netcoreapp3.1\UC2BinaryTree.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\UC2BinaryTree\obj\Debug\netcoreapp3.1\UC2BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\UC2BinaryTree\bin\Debug\netcoreapp3.1\UC2BinaryTree.exe
+C:\Users\91807\Desktop\Batch67\UC2BinaryTree\bin\Debug\netcoreapp3.1\UC2BinaryTree.deps.json
+C:\Users\91807\Desktop\Batch67\UC2BinaryTree\bin\Debug\netcoreapp3.1\UC2BinaryTree.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\UC2BinaryTree\bin\Debug\netcoreapp3.1\UC2BinaryTree.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\UC2BinaryTree\bin\Debug\netcoreapp3.1\UC2BinaryTree.dll
+C:\Users\91807\Desktop\Batch67\UC2BinaryTree\bin\Debug\netcoreapp3.1\UC2BinaryTree.pdb
+C:\Users\91807\Desktop\Batch67\UC2BinaryTree\obj\Debug\netcoreapp3.1\UC2BinaryTree.dll
+C:\Users\91807\Desktop\Batch67\UC2BinaryTree\obj\Debug\netcoreapp3.1\UC2BinaryTree.pdb
+C:\Users\91807\Desktop\Batch67\UC2BinaryTree\obj\Debug\netcoreapp3.1\UC2BinaryTree.genruntimeconfig.cache
