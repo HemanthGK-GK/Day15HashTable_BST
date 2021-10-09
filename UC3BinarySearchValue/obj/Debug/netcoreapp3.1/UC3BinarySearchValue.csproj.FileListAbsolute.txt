@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\UC3BinarySearchValue\bin\Debug\netcoreapp3.1\UC3BinarySearchValue.exe
+C:\Users\91807\Desktop\Batch67\UC3BinarySearchValue\bin\Debug\netcoreapp3.1\UC3BinarySearchValue.deps.json
+C:\Users\91807\Desktop\Batch67\UC3BinarySearchValue\bin\Debug\netcoreapp3.1\UC3BinarySearchValue.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\UC3BinarySearchValue\bin\Debug\netcoreapp3.1\UC3BinarySearchValue.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\UC3BinarySearchValue\bin\Debug\netcoreapp3.1\UC3BinarySearchValue.dll
+C:\Users\91807\Desktop\Batch67\UC3BinarySearchValue\bin\Debug\netcoreapp3.1\UC3BinarySearchValue.pdb
+C:\Users\91807\Desktop\Batch67\UC3BinarySearchValue\obj\Debug\netcoreapp3.1\UC3BinarySearchValue.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\UC3BinarySearchValue\obj\Debug\netcoreapp3.1\UC3BinarySearchValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\UC3BinarySearchValue\obj\Debug\netcoreapp3.1\UC3BinarySearchValue.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\UC3BinarySearchValue\obj\Debug\netcoreapp3.1\UC3BinarySearchValue.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\UC3BinarySearchValue\obj\Debug\netcoreapp3.1\UC3BinarySearchValue.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\UC3BinarySearchValue\obj\Debug\netcoreapp3.1\UC3BinarySearchValue.dll
+C:\Users\91807\Desktop\Batch67\UC3BinarySearchValue\obj\Debug\netcoreapp3.1\UC3BinarySearchValue.pdb
+C:\Users\91807\Desktop\Batch67\UC3BinarySearchValue\obj\Debug\netcoreapp3.1\UC3BinarySearchValue.genruntimeconfig.cache
